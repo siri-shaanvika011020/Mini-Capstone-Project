@@ -1,23 +1,50 @@
+Maven Movie Database Analysis
+Overview
+This repository contains the data analysis project for the Maven Movie Database. The analysis covers various aspects of the database, including customer behavior, movie performance, financial metrics, and staff performance.
+
 Key Areas of Analysis
+Database Structure
+Tables Included: Movies, Actors, Directors, Genres, Customers, Rentals, Payments
 
-Database Structure:
-The Maven Movie Database typically includes tables such as movies, actors, directors, genres, customers, rentals, and payments.
-Understanding the relationships between these tables is crucial for effective analysis.
+Purpose: Understanding relationships between tables for effective analysis
 
-Customer Analysis:
-Customer Engagement: Analyzing rental patterns to identify high-value customers and their preferences.
-Customer Demographics: Understanding the demographics of customers who rent the most movies.
+Customer Analysis
+Customer Engagement: Analysis of rental patterns to identify high-value customers and their preferences
 
-Movie Analysis:
-Popular Movies: Identifying the most rented movies and their genres.
-Movie Ratings: Analyzing the distribution of movie ratings to understand customer preferences.
+Customer Demographics: Insights into the demographics of the most frequent renters
 
-Inventory Management: Assessing the inventory to ensure popular movies are adequately stocked.
+Movie Analysis
+Popular Movies: Identification of the most rented movies and their genres
 
-Financial Analysis:
-Revenue Analysis: Calculating total revenue generated from rentals and identifying trends over time.
-Cost Analysis: Understanding the cost structure associated with maintaining the movie inventory.
+Movie Ratings: Distribution analysis to understand customer preferences
 
-Staff and Store Performance:
-Staff Performance: Evaluating the performance of staff members based on customer feedback and rental transactions.
-Store Performance: Comparing the performance of different store locations in terms of rentals and revenue.
+Inventory Management
+Stock Assessment: Ensuring popular movies are adequately stocked
+
+Financial Analysis
+Revenue Analysis: Calculation of total revenue from rentals and trend identification over time
+
+Cost Analysis: Understanding the cost structure associated with maintaining the movie inventory
+
+Staff and Store Performance
+Staff Performance: Evaluation of staff members based on customer feedback and rental transactions
+
+Store Performance: Comparison of performance across different store locations in terms of rentals and revenue
+
+Files Included
+Amazon.csv: Data file for analysis
+
+Dashboard.png: Visual representation of key insights
+
+SIRI CAPSTONE PROJECT.xlsx: Detailed data analysis of Maven Movies
+
+SQL Capstone Project.docx: Documentation of SQL queries and analysis steps
+
+Usage
+This repository is intended for anyone interested in data analysis and insights derived from the Maven Movie Database. It includes raw data files, analysis scripts, and visualization outputs.
+
+Contributing
+Contributions are welcome! Feel free to fork this repository, make updates, and submit pull requests.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
