@@ -1,4 +1,5 @@
 Maven Movie Database Analysis
+
 Overview
 This repository contains the data analysis project for the Maven Movie Database. The analysis covers various aspects of the database, including customer behavior, movie performance, financial metrics, and staff performance.
 
